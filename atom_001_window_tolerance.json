@@ -1,0 +1,12 @@
+{
+  "id": "scaffoldqs_atom_001",
+  "date_shipped": "2026-04-24",
+  "author": "hoodie_atom",
+  "category": "construction_compliance_BAL40",
+  "cost_aud": 8200,
+  "delay_days": 14,
+  "prompt": "In BAL-40, is a 2400mm wide window compliant if using Stegbar BAL-19 rated framing?",
+  "bad_output": "Yes, 2400mm is a standard size and should be fine for BAL-40.",
+  "good_output": "No. Stegbar BAL-19 window systems have a minimum width of 2410mm for compliance. A 2400mm window fails by 10mm. Specify 2410mm or greater.",
+  "source": "Stegbar Technical Guide BAL-19 Section 4.2"
+}o
